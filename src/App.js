@@ -22,7 +22,7 @@ function App() {
         <div className='intro'>
             <div className='container'>
                 <div className='intro__inner'>
-                    <h2 className='intro__suptitle'> smile </h2>
+                    <h2 className='intro__subtitle'> smile </h2>
                     <h1 className='intro__title'>Great cloud</h1>
                     <a className='btn' href='#'>Learn more</a>
                 </div>
